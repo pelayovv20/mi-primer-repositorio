@@ -1,1 +1,3 @@
 este es el fichero 2
+nuevos cambios
+cambios para deshacer cambios
